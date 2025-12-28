@@ -96,6 +96,6 @@ const sourav = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=souravdas&color=00D9FF&style=for-the-badge)
 
-⭐️ From [Sourav Das](https://github.com/souravdas)
+⭐️ From [Sourav Das](https://github.com/Sourav5482)
 
 </div>
