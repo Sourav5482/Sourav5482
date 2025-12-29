@@ -46,8 +46,8 @@ I'm a passionate **Full-Stack Developer** who loves crafting beautiful, interact
 ## 💼 Project Highlights
 ```javascript
 const sourav = {
-  projects: ['Website Clones', 'Chat Applications', 'Games', 'API-Based Apps', 'Animated Websites'],
-  currentFocus: 'MERN Stack Development',
+  projects: ['Social Service Website', 'Chat Applications', 'Games', 'API-Based Apps', 'Animated Websites'],
+  currentFocus: 'MERN Stack Development','AI/ML'
   funFact: 'I can turn coffee into code ☕→💻'
 };
 ```
